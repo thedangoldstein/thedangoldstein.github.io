@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://thedangoldstein.com/index.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -49,12 +49,6 @@
     </image:image>
     <image:image>
       <image:loc>http://thedangoldstein.com/images/desk_v14699x393.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thedangoldstein.com/images/fv3000%20render%2002_big664x374.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://thedangoldstein.com/images/fv3000%20render%2002_big664x374_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://thedangoldstein.com/images/zakim-crop-u32104.jpg</image:loc>
@@ -227,6 +221,12 @@
     <image:image>
       <image:loc>http://thedangoldstein.com/images/phone_2x.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://thedangoldstein.com/images/fv3000%20render%2002_big778x438.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://thedangoldstein.com/images/fv3000%20render%2002_big778x438_2x.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://thedangoldstein.com/mash.html</loc>
@@ -236,7 +236,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/other-art.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1007,7 +1007,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/structural.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1073,7 +1073,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/human-soldier.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1136,7 +1136,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/3d-scanning.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1571,7 +1571,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/adprod.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1625,7 +1625,7 @@
   </url>
   <url>
     <loc>http://thedangoldstein.com/recreation-for-litigation.html</loc>
-    <lastmod>2024-03-22</lastmod>
+    <lastmod>2024-03-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>

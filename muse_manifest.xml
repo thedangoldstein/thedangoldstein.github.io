@@ -1,35 +1,35 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thedangoldstein.com" resolutions="1x,2x" timestamp="1711133757689">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thedangoldstein.com" resolutions="1x,2x" timestamp="1711332954787">
   <folder name="css">
     <file name="site_global.css" crc="142315247"/>
     <file name="master_a-master.css" crc="172443441" ref="other-art:industrial:cad-kitchen:adprod:photography:cad-bathroom:recreation:oil-rig:film-production:artist-desk:v-ray:cad-outside:marketing-strategies:frog:misc-projects:structural:sneaker:architectural-concept:character-modeling:painter:mash:human-soldier:vr:3d-scanning:recreation-for-litigation:industry-art:leaves:index"/>
     <file name="other-art.css" crc="3896055431" ref="other-art"/>
-    <file name="industrial.css" crc="340781535" ref="industrial"/>
+    <file name="industrial.css" crc="486475687" ref="industrial"/>
     <file name="cad-kitchen.css" crc="44950095" ref="cad-kitchen"/>
     <file name="adprod.css" crc="110780866" ref="adprod"/>
     <file name="photography.css" crc="42160065" ref="photography"/>
     <file name="cad-bathroom.css" crc="41728701" ref="cad-bathroom"/>
-    <file name="recreation.css" crc="29184180" ref="recreation"/>
+    <file name="recreation.css" crc="443697919" ref="recreation"/>
     <file name="oil-rig.css" crc="3979813865" ref="oil-rig"/>
-    <file name="film-production.css" crc="504497185" ref="film-production"/>
+    <file name="film-production.css" crc="58712228" ref="film-production"/>
     <file name="artist-desk.css" crc="525608976" ref="artist-desk"/>
     <file name="v-ray.css" crc="40972520" ref="v-ray"/>
     <file name="cad-outside.css" crc="458927328" ref="cad-outside"/>
     <file name="marketing-strategies.css" crc="252838407" ref="marketing-strategies"/>
     <file name="frog.css" crc="4231789333" ref="frog"/>
-    <file name="misc-projects.css" crc="4164096630" ref="misc-projects"/>
+    <file name="misc-projects.css" crc="4188133243" ref="misc-projects"/>
     <file name="structural.css" crc="3796480890" ref="structural"/>
     <file name="sneaker.css" crc="4069214248" ref="sneaker"/>
     <file name="architectural-concept.css" crc="3871024615" ref="architectural-concept"/>
-    <file name="character-modeling.css" crc="65911034" ref="character-modeling"/>
-    <file name="painter.css" crc="70689852" ref="painter"/>
+    <file name="character-modeling.css" crc="511728767" ref="character-modeling"/>
+    <file name="painter.css" crc="438470528" ref="painter"/>
     <file name="mash.css" crc="3868328916" ref="mash"/>
     <file name="human-soldier.css" crc="274153911" ref="human-soldier"/>
-    <file name="vr.css" crc="4293797882" ref="vr"/>
+    <file name="vr.css" crc="3800286079" ref="vr"/>
     <file name="3d-scanning.css" crc="468473611" ref="3d-scanning"/>
     <file name="recreation-for-litigation.css" crc="4085010269" ref="recreation-for-litigation"/>
-    <file name="industry-art.css" crc="4166926300" ref="industry-art"/>
+    <file name="industry-art.css" crc="358723854" ref="industry-art"/>
     <file name="leaves.css" crc="3902633969" ref="leaves"/>
-    <file name="index.css" crc="3970837419" ref="index"/>
+    <file name="index.css" crc="4109319773" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ace-cash-express.mp4" crc="4179634966" seo="true" mt="1427386366000"/>
@@ -98,12 +98,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="desk_v14699x393.png" crc="516809163" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fv3000 render 02_big664x374.jpg" crc="343218645" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fv3000 render 02_big664x374_2x.jpg" crc="4062026021" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="zakim-crop-u32104.jpg" crc="11275846" seo="true" ref="index">
@@ -228,7 +222,7 @@
     </file>
     <file name="bluhomes-u14270.png" crc="3889102182" ref="index"/>
     <file name="bluhomes-u14270_2x.png" crc="4117215736" ref="index"/>
-    <file name="krash-u11022.png" crc="4173924668" ref="index"/>
+    <file name="krash-u11022.png" crc="344016602" ref="index"/>
     <file name="ph logo3-u11068.png" crc="103448302" ref="index"/>
     <file name="tse-u12212.png" crc="308958468" ref="index"/>
     <file name="emanio_creative-u14362.png" crc="3826401420" ref="index"/>
@@ -1115,8 +1109,8 @@
       <caption webpage="recreation" alt=""/>
       <caption webpage="recreation" alt=""/>
     </file>
-    <file name="u29612-5.png" crc="10366288" ref="recreation"/>
-    <file name="u29612-5_2x.png" crc="186390471" ref="recreation"/>
+    <file name="u29612-5.png" crc="427578385" ref="recreation"/>
+    <file name="u29612-5_2x.png" crc="141950178" ref="recreation"/>
     <file name="lnd01_~2.jpg" crc="4110338521" seo="true" ref="film-production">
       <caption webpage="film-production" alt=""/>
       <caption webpage="film-production" alt=""/>
@@ -1141,8 +1135,8 @@
       <caption webpage="film-production" alt=""/>
       <caption webpage="film-production" alt=""/>
     </file>
-    <file name="u29663-5.png" crc="416536357" ref="film-production"/>
-    <file name="u29663-5_2x.png" crc="468739265" ref="film-production"/>
+    <file name="u29663-5.png" crc="279336068" ref="film-production"/>
+    <file name="u29663-5_2x.png" crc="4261393505" ref="film-production"/>
     <file name="original_518721_cfh_6d8nm4flr_dk4ywgec0zh.jpg" crc="384696311" seo="true" ref="misc-projects">
       <caption webpage="misc-projects" alt=""/>
       <caption webpage="misc-projects" alt=""/>
@@ -1151,8 +1145,8 @@
       <caption webpage="misc-projects" alt=""/>
       <caption webpage="misc-projects" alt=""/>
     </file>
-    <file name="u29816-5.png" crc="3812575414" ref="misc-projects"/>
-    <file name="u29816-5_2x.png" crc="3828026115" ref="misc-projects"/>
+    <file name="u29816-5.png" crc="3792475050" ref="misc-projects"/>
+    <file name="u29816-5_2x.png" crc="131139741" ref="misc-projects"/>
     <file name="fraco1.jpg" crc="9595167" seo="true" ref="structural">
       <caption webpage="structural" alt=""/>
     </file>
@@ -1211,8 +1205,8 @@
     <file name="book0000_007_2x.jpg" crc="4198167501" seo="true" ref="character-modeling">
       <caption webpage="character-modeling" alt=""/>
     </file>
-    <file name="u29765-5.png" crc="3774333734" ref="character-modeling"/>
-    <file name="u29765-5_2x.png" crc="22912877" ref="character-modeling"/>
+    <file name="u29765-5.png" crc="265729758" ref="character-modeling"/>
+    <file name="u29765-5_2x.png" crc="3952884102" ref="character-modeling"/>
     <file name="standing01_2-crop-u10562.jpg" crc="246592937" seo="true" ref="human-soldier">
       <caption webpage="human-soldier" alt=""/>
     </file>
@@ -1611,8 +1605,8 @@
     <file name="testframe061117x628.jpg" crc="4119676604" seo="true" ref="industrial">
       <caption webpage="industrial" alt=""/>
     </file>
-    <file name="u31143-5.png" crc="96558629" ref="industrial"/>
-    <file name="u31143-5_2x.png" crc="120110427" ref="industrial"/>
+    <file name="u31143-5.png" crc="3930542592" ref="industrial"/>
+    <file name="u31143-5_2x.png" crc="3758626254" ref="industrial"/>
     <file name="zakim530x530.jpg" crc="3868981771" seo="true" ref="industry-art">
       <caption webpage="industry-art" alt=""/>
     </file>
@@ -1706,8 +1700,8 @@
     <file name="conveyorbelt2.jpg" crc="323462671" seo="true" ref="industry-art">
       <caption webpage="industry-art" alt=""/>
     </file>
-    <file name="u31619-5.png" crc="4990642" ref="industry-art"/>
-    <file name="u31619-5_2x.png" crc="4111234036" ref="industry-art"/>
+    <file name="u31619-5.png" crc="3794527286" ref="industry-art"/>
+    <file name="u31619-5_2x.png" crc="3829542094" ref="industry-art"/>
     <file name="ap_dp_00098.jpg" crc="468510431" seo="true" ref="recreation-for-litigation">
       <caption webpage="recreation-for-litigation" alt=""/>
       <caption webpage="recreation-for-litigation" alt=""/>
@@ -1901,8 +1895,8 @@
     <file name="city1024x577_2x.jpg" crc="347217965" seo="true" ref="vr">
       <caption webpage="vr" alt=""/>
     </file>
-    <file name="u34696-5.png" crc="4238993369" ref="vr"/>
-    <file name="u34696-5_2x.png" crc="120446864" ref="vr"/>
+    <file name="u34696-5.png" crc="498951052" ref="vr"/>
+    <file name="u34696-5_2x.png" crc="3803405121" ref="vr"/>
     <file name="painterflyingcarscreen_02.jpg" crc="4288710358" seo="true" ref="painter">
       <caption webpage="painter" alt=""/>
     </file>
@@ -1999,8 +1993,8 @@
     <file name="painterflyingcarscreen_241024x677_2x.jpg" crc="3925675542" seo="true" ref="painter">
       <caption webpage="painter" alt=""/>
     </file>
-    <file name="u35808-5.png" crc="3777150018" ref="painter"/>
-    <file name="u35808-5_2x.png" crc="180049877" ref="painter"/>
+    <file name="u35808-5.png" crc="4191054639" ref="painter"/>
+    <file name="u35808-5_2x.png" crc="201746190" ref="painter"/>
     <file name="sneaker_v25_1 (0-00-00-07).jpg" crc="4280603696" seo="true" ref="sneaker">
       <caption webpage="sneaker" alt=""/>
     </file>
@@ -2107,17 +2101,23 @@
     <file name="leafpile_v231285x723.jpg" crc="32633052" seo="true" ref="leaves">
       <caption webpage="leaves" alt=""/>
     </file>
+    <file name="fv3000 render 02_big778x438.jpg" crc="4194341431" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fv3000 render 02_big778x438_2x.jpg" crc="4207026867" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4153873879" seo="true" mt="1711133503908" redirect="true"/>
-  <file name="other-art.html" crc="4059905648" seo="true" mt="1711133603766" redirect="true"/>
+  <file name="index.html" crc="4073959958" seo="true" mt="1711332436446" redirect="true"/>
+  <file name="other-art.html" crc="4059905648" seo="true" mt="1711332513452" redirect="true"/>
   <file name="photography.html" crc="4215923720" seo="true" mt="1711133503908" redirect="true"/>
-  <file name="recreation.html" crc="4113728704" seo="true" mt="1711133631570" redirect="true"/>
-  <file name="film-production.html" crc="363896680" seo="true" mt="1711133632213" redirect="true"/>
-  <file name="misc-projects.html" crc="3784221795" seo="true" mt="1711133632604" redirect="true"/>
-  <file name="structural.html" crc="3852669283" seo="true" mt="1711133633595" redirect="true"/>
-  <file name="character-modeling.html" crc="4163566081" seo="true" mt="1711133634751" redirect="true"/>
-  <file name="human-soldier.html" crc="4115286546" seo="true" mt="1711133637045" redirect="true"/>
-  <file name="3d-scanning.html" crc="531213882" seo="true" mt="1711133639060" redirect="true"/>
+  <file name="recreation.html" crc="91392776" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="film-production.html" crc="299175108" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="misc-projects.html" crc="133452144" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="structural.html" crc="3852669283" seo="true" mt="1711332544288" redirect="true"/>
+  <file name="character-modeling.html" crc="4062826762" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="human-soldier.html" crc="4115286546" seo="true" mt="1711332547779" redirect="true"/>
+  <file name="3d-scanning.html" crc="531213882" seo="true" mt="1711332549870" redirect="true"/>
   <file name="cad-outside.html" crc="4273688235" seo="true" mt="1711133503908" redirect="true"/>
   <file name="artist-desk.html" crc="24726452" seo="true" mt="1711133503908" redirect="true"/>
   <file name="marketing-strategies.html" crc="277186898" seo="true" mt="1711133503908" redirect="true"/>
@@ -2126,12 +2126,12 @@
   <file name="oil-rig.html" crc="4293488091" seo="true" mt="1711133503908" redirect="true"/>
   <file name="cad-bathroom.html" crc="4006718978" seo="true" mt="1711133503908" redirect="true"/>
   <file name="cad-kitchen.html" crc="3941087839" seo="true" mt="1711133503908" redirect="true"/>
-  <file name="adprod.html" crc="4200293706" seo="true" mt="1711133649527" redirect="true"/>
-  <file name="industrial.html" crc="194330204" seo="true" mt="1711133650334" redirect="true"/>
-  <file name="industry-art.html" crc="326622090" seo="true" mt="1711133652940" redirect="true"/>
-  <file name="recreation-for-litigation.html" crc="142990576" seo="true" mt="1711133654642" redirect="true"/>
-  <file name="vr.html" crc="4242607511" seo="true" mt="1711133694091" redirect="true"/>
-  <file name="painter.html" crc="10662916" seo="true" mt="1711133744043" redirect="true"/>
+  <file name="adprod.html" crc="4200293706" seo="true" mt="1711332560423" redirect="true"/>
+  <file name="industrial.html" crc="416886367" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="industry-art.html" crc="497761696" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="recreation-for-litigation.html" crc="142990576" seo="true" mt="1711332565466" redirect="true"/>
+  <file name="vr.html" crc="3949022050" seo="true" mt="1711133503908" redirect="true"/>
+  <file name="painter.html" crc="404745212" seo="true" mt="1711133503908" redirect="true"/>
   <file name="sneaker.html" crc="511530737" seo="true" mt="1711133503908" redirect="true"/>
   <file name="v-ray.html" crc="361144461" seo="true" mt="1711133503908" redirect="true"/>
   <file name="frog.html" crc="3955993620" seo="true" mt="1711133503908" redirect="true"/>

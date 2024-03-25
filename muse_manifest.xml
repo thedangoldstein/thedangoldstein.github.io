@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thedangoldstein.com" resolutions="1x,2x" timestamp="1711332954787">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="thedangoldstein.com" resolutions="1x,2x" timestamp="1711376017707">
   <folder name="css">
     <file name="site_global.css" crc="142315247"/>
     <file name="master_a-master.css" crc="172443441" ref="other-art:industrial:cad-kitchen:adprod:photography:cad-bathroom:recreation:oil-rig:film-production:artist-desk:v-ray:cad-outside:marketing-strategies:frog:misc-projects:structural:sneaker:architectural-concept:character-modeling:painter:mash:human-soldier:vr:3d-scanning:recreation-for-litigation:industry-art:leaves:index"/>
@@ -29,7 +29,7 @@
     <file name="recreation-for-litigation.css" crc="4085010269" ref="recreation-for-litigation"/>
     <file name="industry-art.css" crc="358723854" ref="industry-art"/>
     <file name="leaves.css" crc="3902633969" ref="leaves"/>
-    <file name="index.css" crc="4109319773" ref="index"/>
+    <file name="index.css" crc="4052831841" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="ace-cash-express.mp4" crc="4179634966" seo="true" mt="1427386366000"/>
@@ -222,7 +222,7 @@
     </file>
     <file name="bluhomes-u14270.png" crc="3889102182" ref="index"/>
     <file name="bluhomes-u14270_2x.png" crc="4117215736" ref="index"/>
-    <file name="krash-u11022.png" crc="344016602" ref="index"/>
+    <file name="krash-u11022.png" crc="4173924668" ref="index"/>
     <file name="ph logo3-u11068.png" crc="103448302" ref="index"/>
     <file name="tse-u12212.png" crc="308958468" ref="index"/>
     <file name="emanio_creative-u14362.png" crc="3826401420" ref="index"/>
@@ -2108,7 +2108,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4073959958" seo="true" mt="1711332436446" redirect="true"/>
+  <file name="index.html" crc="58719699" seo="true" mt="1711375884090" redirect="true"/>
   <file name="other-art.html" crc="4059905648" seo="true" mt="1711332513452" redirect="true"/>
   <file name="photography.html" crc="4215923720" seo="true" mt="1711133503908" redirect="true"/>
   <file name="recreation.html" crc="91392776" seo="true" mt="1711133503908" redirect="true"/>
